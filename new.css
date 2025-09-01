@@ -1,0 +1,20 @@
+#text{
+    color:rgb(55, 0, 106);
+    font-size: 50px;
+}
+#btn{
+    width: 25vw;
+    height: 50px;
+    border-radius: 25px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    border-width: 0;
+    background: linear-gradient(45deg, #bad80a, #009e49);
+    transition-duration: 0.5s;
+}
+#btn:hover{
+    width: 28vw;
+    height: 55px;
+    border-color: rgb(255, 128, 0);
+    border-width: 5px;
+}
